@@ -1,0 +1,168 @@
+*{
+	margin: auto;
+	padding: 0px;
+}
+
+#Wrapper{
+	width: 975px;
+	min-height: 1800px;
+}
+
+#verytop{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 40px;
+}
+#verytop span{
+	color: #6190BA;
+}
+#BottomHeader{
+	width: 970px;
+	min-height: 37px;
+	color: white;
+	font-size: 30px;
+	padding: 8px 0px 0px 15px;
+	font-family: "Gill Sans", sans-serif;
+	background-image: radial-gradient(#26679F, #5082AC, #26679f);
+}
+#Mainstuff{
+	width: 985px;
+	min-height: 600px;
+	background-image: linear-gradient(to bottom, #E9E9E9, #FFFFFF, #FFFFFF);
+}	
+#DNS{
+	color: #4F83AF;
+}
+
+#info{
+	margin-left: 255px;
+	font-family: "Gill Sans", sans-serif;
+	height: 80px;
+}
+#info p{
+	text-align: right;
+	font-size: 10px;
+	position: relative;
+	bottom: 55px;
+	right: 10px;
+}
+#info hr{
+	width: 95%;
+	position: relative;
+	right: 10px;
+	bottom: 40px;
+}
+#info span{
+	color: #00C0DF;
+	font-size: 22px;
+	font-weight: bold;	
+}
+#bulk{
+	margin-left: 275px;
+}
+#bulk span{
+	color: #4CB7C7;
+}
+#bulk h3{
+	color: #24679F;
+}
+#bulk li{
+	width: 650px;
+	padding: 5px;
+}
+#bottomstuff{
+	padding-left: 50px;
+	border: 4px solid blue;
+	border-bottom: 0px;
+	margin-top: 30px;
+	padding-top: 20px;
+	width: 640px;
+	height: 150px;
+}
+#bottomcontent{
+	margin-left: 150px;
+}
+#leftstuff{
+	min-height: 670px;
+	width: 210px;
+	position: relative;
+	bottom: 850px;
+	right: 370px;
+}
+#leftstuff hr{
+	margin-top: 20px;
+}
+h3 span{
+	color: red;
+}
+h4 span{
+	color: #447CAB
+}
+#button1{
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: #4581B2
+}
+#button2{
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: #EF7C00
+}
+#button3{
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-size: 16px;
+	border-radius: 10px;
+	margin-top: 20px;
+	background-color: #2AC7DF;
+}
+#lastpart{
+	background-image: url(ad_background.png);
+	width: 210px;
+	height: 350px;
+	margin-top: 30px;
+	color: white;
+	text-align: center;
+}
+img[src="globe.png"]{
+	min-height: 70px;
+	width: 70px;
+	position: relative;
+	top: 20px;
+}
+img[src="phone.png"]{
+	min-height: 35px;
+	width: 35px;
+	position: relative;
+	top: 30px;
+	right: 15px;
+}
+img[src="home.png"]{
+	min-height: 20px;
+	width: 20px;
+	position: relative;
+	padding-top: 10px;
+}
+img[src="client_server.jpg"]{
+	min-height: 80px;
+	width: 295px;
+	position: relative;
+	left: 200px;
+}
+img[src="html.png"]{
+	min-height: 120px;
+	width: 130px;
+	position: relative;
+	bottom: 150px;
+	left: 30px;
+}
+img[src="ninja.png"]{
+	min-height: 95px;
+	width: 70px;
+}
